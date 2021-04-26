@@ -1,1 +1,2 @@
 # safesea
+SafeSea is a mixture of RFI tokenomics with the added function of auto-liquidity generating protocol. A fork from BEE with amended transaction tax (3% reward tax to token holder & 1% burn tax). Simple tokenomics and elegant design and production of token information has catered to the overall success of the project. 100% community owned and driven - no rug is possible. SafeSea is committed to preserve and protect the ocean. 1.5% of the tokenomic will be lockaway for charitable purposes. 
